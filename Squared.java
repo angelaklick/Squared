@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Lab 3. Eric and Angela
+
 public class Squared {
 
 	public static void main(String[] args) {
